@@ -211,3 +211,16 @@ footer p {
         font-size: 12px;
     }
 }
+/* Ajustes para el logo */
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espaciado entre la imagen y el texto */
+    text-decoration: none;
+    color: #000;
+}
+
+.logo-img {
+    width: 125px; /* Ajusta el tamaño según tu diseño */
+    height: auto;
+}
